@@ -1,0 +1,29 @@
+[
+    {
+      "pk": 1,
+      "model": "auth.user",
+      "fields": {
+        "username": "testuser1",
+        "password": "easyPassword1",
+        "email": "testuser1@example.com"
+      }
+    },
+    {
+      "pk": 2,
+      "model": "auth.user",
+      "fields": {
+        "username": "testuser2",
+        "password": "easyPassword2",
+        "email": "testuser2@example.com"
+      }
+    },
+    {
+      "pk": 3,
+      "model": "auth.user",
+      "fields": {
+        "username": "testuser3",
+        "password": "easyPassword3",
+        "email": "testuser3@example.com"
+      }
+    }
+  ]
