@@ -1,0 +1,72 @@
+[
+    {
+        "model": "raterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Monopoly",
+            "description": "A classic board game where players buy properties, build houses, and collect rent.",
+            "designer": "Charles Darrow",
+            "year_released": 1935,
+            "number_of_players": 2,
+            "estimated_time_to_play": 60,
+            "age_recommendation": 8,
+            "user_id": 1
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Settlers of Catan",
+            "description": "Players try to be the first to reach a predetermined number of points by trading resources, building settlements, and developing infrastructure.",
+            "designer": "Klaus Teuber",
+            "year_released": 1995,
+            "number_of_players": 3,
+            "estimated_time_to_play": 90,
+            "age_recommendation": 10,
+            "user_id": 1
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "Ticket to Ride",
+            "description": "Players try to claim railway routes across Europe by collecting cards of various types of train cars and then drawing tickets to claim railway routes.",
+            "designer": "Alan R. Moon",
+            "year_released": 2004,
+            "number_of_players": 2,
+            "estimated_time_to_play": 45,
+            "age_recommendation": 7,
+            "user_id": 1
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 4,
+        "fields": {
+            "title": "Carcassonne",
+            "description": "In this tile-laying game, players take turns drawing tiles and placing them on the map, attempting to have the majority of features in the area around their cities.",
+            "designer": "Klaus-Jürgen Wrede",
+            "year_released": 2000,
+            "number_of_players": 2,
+            "estimated_time_to_play": 60,
+            "age_recommendation": 7,
+            "user_id": 1
+        }
+    },
+    {
+        "model": "raterapi.game",
+        "pk": 5,
+        "fields": {
+            "title": "Pandemic",
+            "description": "Players work together to treat diseases and cure them before they spread out of control. Requires cooperation between all players to win.",
+            "designer": "Matt Leacock",
+            "year_released": 2008,
+            "number_of_players": 2,
+            "estimated_time_to_play": 45,
+            "age_recommendation": 8,
+            "user_id": 1
+        }
+    }
+]

@@ -1,29 +1,13 @@
 [
-    {
-      "pk": 1,
+  
+      {"pk": 1,
       "model": "auth.user",
       "fields": {
-        "username": "testuser1",
-        "password": "easyPassword1",
-        "email": "testuser1@example.com"
+        "username": "danny@gmail.com",
+        "password": "pbkdf2_sha256$720000$C9x5Urkvc7tE3nLNVpxNsM$VGdHhfY/ZjTJXJmN4lhQ9K5jqT/RGW/EMwITv/2IsnY=",
+        "email": "danny@gmail.com",
+        "first_name":"Danny",
+        "last_name":"Hidalgo"}
       }
-    },
-    {
-      "pk": 2,
-      "model": "auth.user",
-      "fields": {
-        "username": "testuser2",
-        "password": "easyPassword2",
-        "email": "testuser2@example.com"
-      }
-    },
-    {
-      "pk": 3,
-      "model": "auth.user",
-      "fields": {
-        "username": "testuser3",
-        "password": "easyPassword3",
-        "email": "testuser3@example.com"
-      }
-    }
+    
   ]
